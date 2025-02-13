@@ -1,4 +1,4 @@
-# low-latency-coding-platform
+# low-latency-trading-platform
 
 ## Project Idea: Low Latency Trading Platform Prototype
 
